@@ -4,14 +4,14 @@
 
 ## 目录
 
-- [什么是 Pull Request？](#什么是-pull-request)
-- [Pull Request 的工作流程](#pull-request-的工作流程)
-- [准备工作：Fork 与 Clone](#准备工作fork-与-clone)
-- [创建你的第一个 Pull Request](#创建你的第一个-pull-request)
-- [Pull Request 模板](#pull-request-模板)
-- [代码审查与协作](#代码审查与协作)
-- [高级技巧](#高级技巧)
-- [常见问题与解决方案](#常见问题与解决方案)
+- 什么是 Pull Request？
+- Pull Request 的工作流程
+- 准备工作：Fork 与 Clone
+- 创建你的第一个 Pull Request
+- Pull Request 模板
+- 代码审查与协作
+- 高级技巧
+- 常见问题与解决方案
 
 ---
 
@@ -218,13 +218,13 @@ Fixes #123
 <!-- 简要描述你的修改内容和目的 -->
 
 ## 修改类型
-- [ ] 🐛 Bug 修复 (bug fix)
-- [ ] ✨ 新功能 (new feature)
-- [ ] 📖 文档更新 (documentation)
-- [ ] 🎨 代码格式 (code style)
-- [ ] ♻️ 代码重构 (refactoring)
-- [ ] ✅ 测试 (tests)
-- [ ] 🔧 构建/工具 (build/tooling)
+- [ ] Bug 修复 (bug fix)
+- [ ] 新功能 (new feature)
+- [ ] 文档更新 (documentation)
+- [ ] 代码格式 (code style)
+- [ ] 代码重构 (refactoring)
+- [ ] 测试 (tests)
+- [ ] 构建/工具 (build/tooling)
 
 ## 涉及的文件
 <!-- 列出你修改或新增的文件 -->
@@ -280,12 +280,10 @@ Fixes #123
 
 #### 审查评论规范
 
-```
-💡 建议：可以用这个符号开头表示改进建议
-❓ 问题：可以用这个符号开头表示需要澄清的问题
-✅ 认可：可以用这个符号表示对某处代码的肯定
-🔴 重要：可以用这个符号标记需要重点关注的问题
-```
+- 💡 建议：可以用这个符号开头表示改进建议
+- ❓ 问题：可以用这个符号开头表示需要澄清的问题
+- ✅ 认可：可以用这个符号表示对某处代码的肯定
+- 🔴 重要：可以用这个符号标记需要重点关注的问题
 
 #### 审查状态
 
@@ -598,7 +596,7 @@ git fetch --prune
 
 ## 许可证
 
-本教程采用 [MIT 许可证](LICENSE)。
+本教程采用 MIT 许可证。
 
 ---
 
